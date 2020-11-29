@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "An Explainable Machine Learning Model for the Prediction of Parkinson’s Disease using LIME on Speech Signals"
-authors: [Richard Delwin Myloth, Pavan Rajkumar Magesh, Rijo Jackson Tom]
-date: 2020-07-28T20:00:56+05:30
+authors: 
+date: 2020-10-28T20:00:56+05:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

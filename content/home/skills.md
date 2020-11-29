@@ -23,13 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "square-root-alt"
   icon_pack = "fas"
-  name = "ML & AI Algorithms"
-  description = ""
-
-[[feature]]
-  icon = "pencil-alt"
-  icon_pack = "fas"
-  name = "LaTeX"
+  name = "AI & ML"
   description = ""
 
 [[feature]]
@@ -41,7 +35,13 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Neuroimaging"
+  name = "Computational Healthcare"
+  description = ""
+
+[[feature]]
+  icon = "pencil-alt"
+  icon_pack = "fas"
+  name = "LaTeX"
   description = ""
 
 [[feature]]

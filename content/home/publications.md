@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Here's some of the research I've been working on."
+subtitle = "Here's some of the research I've been working on. Click their titles to know more."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0

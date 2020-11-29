@@ -14,22 +14,22 @@ role: Student Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: CMR Institute of Technology
-  url: "https://www.cmrit.ac.in/"
+- name: Visvesvaraya Technological University
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied AI and machine learning, specifically in the healthcare and software solutions field. Have recently been discovering the field of computational neuroscience, the main inspiration from where machine learning was engendered. 
+bio: My research interests include applied AI and machine learning, specifically in the healthcare and software solutions field. Another field I am exploring is that of eXplainable AI (XAI) where we attempt to interpret and visualise the workings of black-box models.
 
 interests:
-- Artificial Intelligence
+- AI for Healthcare
+- Computational Biomedicine
+- eXplainable AI (XAI)
 - Machine Learning
-- Smart Healthcare Solutions
-- Computational Neuroscience
 
 education:
   courses:
   - course: BE in Computer Science and Engineering
-    institution: CMR Institute of Technology
+    institution: Visvesvaraya Technological University
     year: 2017 - 2021
 
 # Social/Academic Networking
@@ -47,6 +47,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/pavan-rajkumar/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=l198WwcAAAAJ&hl=en&oi=ao
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
@@ -63,4 +66,4 @@ user_groups:
 - Researchers
 ---
 
-Hello There! I'm a final year undergraduate student at CMR Institute of Technology located in Bangalore, India. I was recently introduced to the research world and really enjoyed the process of studying and developing new ideas which have never been implemented before! I'm still new to the whole research field and am still discovering what are my true interests but in the mean time I have been working on research which involves using AI solutions in healthcare applications. You can find some of the stuff I'm working on in the research tab above. Also in my free time I've been exploring the depths of Computational Neuroscience which I find very interesting.
+A final year undergraduate student, and relatively new to the research world. I really enjoy the process of studying and developing new ideas which have never been implemented before! Am looking forward to discovering new realms of computer science and its applications. In the meantime, I have been working on research which involves using AI solutions in healthcare and software applications. You can find out what I'm working on in the research tab above, or just scroll below to know more about me. 

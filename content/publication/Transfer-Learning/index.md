@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A Comparitive Study of Transfer Learning Models for Medical Imaging"
-authors: [Pavan Rajkumar Magesh, Richard Delwin Myloth, Rijo Jackson Tom]
+authors: 
 date: 2020-07-27T05:30:59+05:30
 doi: ""
 

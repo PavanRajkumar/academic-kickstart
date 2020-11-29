@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Certificates"
-subtitle = "For me, most useful learning happens outside the classroom."
+subtitle = "For me, most useful learning happens both inside and outside the classroom."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   title = "Deep Learning Specialization"
   url = "https://www.coursera.org/specializations/deep-learning"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/ZJLX2VWEXF8V"
-  date_start = "2020-08-01"
+  date_start = "2020-06-30"
   description = "Was initially exploring deep learning from websites, blogs etc. Thought I should solidify my knowledge with this specialization. Studied hyperparameter tuning, regularization, optimization, CNNs and sequence models. Also learnt how to structure machine learning projects."
 
 [[item]]
@@ -80,5 +80,23 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/VW8YXE6J4QXH"
   date_start = "2018-05-01"
   description = "Where my ML journey began. Studied various supervised and unsupervised algorithms along with their implementations."
+
+  [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Digital Signal Processing 1: Basic Concepts and Algorithms"
+  url = "https://www.coursera.org/learn/dsp1"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/VXYYF8WN4PT8"
+  date_start = "2020-06-09"
+  description = "Understanding the basic concepts of Signal Processing such as fourier analysis, sampling, interpolation, quantization etc"
+
+    [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Digital Signal Processing 2: Filtering"
+  url = "https://www.coursera.org/learn/dsp2"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/AZX3V3NHPFPN"
+  date_start = "2020-06-11"
+  description = "A continuation of the first course, this one emphasises on filtering, am currently looking forward to pursue and complete the remaining two courses in the series"
 
 +++
