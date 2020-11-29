@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "These are the projects I've done for gaining hands-on-knowledge"
+subtitle = "These are the projects I've done for gaining hands-on-experience"
 
 [content]
   # Page type to display. E.g. project.

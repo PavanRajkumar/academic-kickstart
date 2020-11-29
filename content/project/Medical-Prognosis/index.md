@@ -6,7 +6,7 @@ summary: "Was quite familiar with Diagnosis so decided to explore Prognosis. Bui
 authors: []
 tags: []
 categories: []
-date: 2020-07-26T06:00:16+05:30
+date: 2020-09-10T06:00:16+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

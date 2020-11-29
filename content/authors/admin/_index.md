@@ -66,4 +66,6 @@ user_groups:
 - Researchers
 ---
 
+<div style="text-align: justify">
 A final year undergraduate student, and relatively new to the research world. I really enjoy the process of studying and developing new ideas which have never been implemented before! Am looking forward to discovering new realms of computer science and its applications. In the meantime, I have been working on research which involves using AI solutions in healthcare and software applications. You can find out what I'm working on in the research tab above, or just scroll below to know more about me. 
+</div>

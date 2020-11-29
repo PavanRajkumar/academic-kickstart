@@ -6,7 +6,7 @@ summary: "Developed a series of mini-projects in accordance with the computation
 authors: []
 tags: []
 categories: []
-date: 2020-07-29T05:56:22+05:30
+date: 2020-08-01T05:56:22+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

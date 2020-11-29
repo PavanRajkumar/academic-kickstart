@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Certificates"
-subtitle = "For me, most useful learning happens both inside and outside the classroom."
+subtitle = "For me, learning happens both inside and outside the classroom."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

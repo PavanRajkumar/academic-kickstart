@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Software Risk Prediction using Supervised Machine Learning Techniques"
+title: "Choosing the Best Set of Features for a ML Model for Software Risk Prediction Based on Model Accuracy"
 authors: 
-date: 2020-08-01T05:13:38+05:30
+date: 2020-09-12T05:13:38+05:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,17 +25,14 @@ development, which is a part of software project management, incremental
 changes are typically made to an existing set of code and documents that
 may be initially empty. This goal becomes more crucial due to short
 delivery schedules that constrain coding, inspection and testing. In this
-paper, we deal with one aspect of the above scenario, where we predict,
-using machine learning techniques, the risk associated with changing a
-software code segment based on a set of parameters associated with that
-segment. We decide on a set of features relevant to a segment of code and
-create different types of machine learning models based on those features
-to predict the risk associated (in terms of probability of failure) with a
-change in that segment. We then decide on various evaluation criteria
-and compare and show the best models that work in this scenario."
+paper, we use an approach to determine an optimal or nearly optimal set
+of features to use in creating or training a machine learning model. We do
+this by creating subsets of a base set of features in this domain, training
+a ML model on the set of features and training them on the data set. We
+can then pick the set that gives the best results."
 
 # Summary. An optional shortened abstract.
-summary: "Predicting the risk and impact of newly introduced code into a project codebase. Using supervised machine learning to classify new code as bug inducing or not. Comparing performance on neural networks, naive-bayes, SVMs, random forests, and logistic regression."
+summary: "Identified which features of a commit (like lines added, deleted etc.) has the most impact on determining a commit's bug risk. Utilised SHAP explanations to determine these characteristic features which allowed us to increase their weightage and improve performance of a commit risk classifier."
 
 tags: [Git, Commits, Version Control System, Risk Estimation, Machine Learning]
 categories: []
@@ -49,7 +46,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "./Parkinson's-Image.pdf"
+url_pdf: "./softwareRisk2.pdf"
 url_code: "https://github.com/PavanRajkumar/Software-Risk"
 url_dataset:
 url_poster:

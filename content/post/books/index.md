@@ -5,7 +5,7 @@ title: "Books I've Read"
 subtitle: ""
 summary: "I read books every now and then, mostly non-fiction and biographies, and sometimes high quality fiction too. Here's a list of them."
 authors: []
-tags: []
+tags: [Books, Fiction, Non-Fiction, Knowledge]
 categories: []
 date: 2020-07-25T17:21:02+05:30
 lastmod: 2020-07-25T17:21:02+05:30

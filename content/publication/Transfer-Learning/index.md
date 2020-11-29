@@ -3,7 +3,7 @@
 
 title: "A Comparitive Study of Transfer Learning Models for Medical Imaging"
 authors: 
-date: 2020-07-27T05:30:59+05:30
+date: 2020-09-01T05:30:59+05:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

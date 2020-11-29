@@ -6,7 +6,7 @@ summary: "One of the most popular medical image analysis task. Utilised CNN's an
 authors: []
 tags: []
 categories: []
-date: 2020-07-27T05:57:41+05:30
+date: 2020-08-27T05:57:41+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -6,7 +6,7 @@ summary: "Was experimenting on brain tumour segmentation using the popular segme
 authors: []
 tags: []
 categories: []
-date: 2020-07-28T05:59:24+05:30
+date: 2020-09-29T05:59:24+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
