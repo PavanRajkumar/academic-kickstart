@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Computational Neuroscience"
   url = "https://www.coursera.org/learn/computational-neuroscience"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/RSL2VSTKAJ2A"
-  date_start = "2020-07-01"
+  date_start = "2020-07-13"
   description = "Utilised computational methods for understanding how the nervous systems functions. Studied topics such as representation of information by spiking neurons, processing of information in neural networks, and algorithms for adaptation and learning."
 
 [[item]]
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   title = "Fundamental Neuroscience for Neuroimaging"
   url = "https://www.coursera.org/learn/neuroscience-neuroimaging"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/BDZYUQWY3FMA"
-  date_start = "2020-07-01"
+  date_start = "2020-07-15"
   description = "Studied basic principles of neuroimaging methods including neuroimaging physics and image formation, neuroimaging applications, functional MRI, diffusion tensor imaging, magnetic resonance spectroscopy, perfusion imaging, and positron emission tomography imaging."
 
 [[item]]
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   title = "Principles of fMRI 1"
   url = "https://www.coursera.org/learn/functional-mri"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/3Y6AR9Q2ZE9V"
-  date_start = "2020-07-01"
+  date_start = "2020-07-15"
   description = "Investigated the design, acquisition, preprocessing, reconstruction and analysis of Functional Magnetic Resonance Imaging (fMRI) data."
 
 [[item]]
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   title = "Principles of fMRI 2"
   url = "https://www.coursera.org/learn/functional-mri-2"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/GS3Q8BCFHPKT"
-  date_start = "2020-07-01"
+  date_start = "2020-07-17"
   description = "Studied advanced experimental design, GLM modelling, brain connectivity and multi-voxel pattern analysis."
 
 [[item]]
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   title = "Deep Learning Specialization"
   url = "https://www.coursera.org/specializations/deep-learning"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/ZJLX2VWEXF8V"
-  date_start = "2020-06-30"
+  date_start = "2020-08-02"
   description = "Was initially exploring deep learning from websites, blogs etc. Thought I should solidify my knowledge with this specialization. Studied hyperparameter tuning, regularization, optimization, CNNs and sequence models. Also learnt how to structure machine learning projects."
 
 [[item]]
@@ -81,7 +81,7 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   description = "Where my ML journey began. Studied various supervised and unsupervised algorithms along with their implementations."
 
-  [[item]]
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Digital Signal Processing 1: Basic Concepts and Algorithms"
@@ -90,7 +90,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-09"
   description = "Understanding the basic concepts of Signal Processing such as fourier analysis, sampling, interpolation, quantization etc"
 
-    [[item]]
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Digital Signal Processing 2: Filtering"

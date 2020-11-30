@@ -8,7 +8,7 @@ authors: []
 tags: [Research, Papers, Scientific Literature]
 categories: []
 date: 2020-01-25T17:21:02+05:30
-lastmod: 2020-10-25T17:21:02+05:30
+lastmod: 2020-11-26T17:21:02+05:30
 featured: false
 draft: false
 
@@ -34,8 +34,17 @@ This is a list of some interesting papers I've read while doing my research work
 
 <br/>
 
+**26/11/2020 - [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)**      
+Presents a method for unsupervised visual representation learning. Need to look further into contrastive-based learning. 
+
+**24/11/2020 - [MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models](https://arxiv.org/pdf/2010.05352)**      
+Using Momentum Contrast (MoCo) on the chest x-ray problem. Remember to read the MoCo paper.
+
+**17/11/2020 - [CheXphotogenic: Generalization of Deep Learning Models for Chest X-ray Interpretation to Photos of Chest X-rays](https://arxiv.org/pdf/2011.06129)**      
+Measuring the diagnostic performance on 8 different chest x-ray models. Paper also investigates how different model training procedures may affect model generalization.
+
 **12/11/2020 - [AppendiXNet: Deep Learning for Diagnosis of Appendicitis from A Small Dataset of CT Exams Using Video Pretraining](https://search.proquest.com/openview/af576054af9682fccccf12e1ebceb3be/1?pq-origsite=gscholar&cbl=2041939)**      
-Paper from one of my favourite researchers. Detecting appendicitis uding deep learning.
+Paper from one of my favourite researchers. Detecting appendicitis using deep learning.
 
 **4/11/2020 - [A Survey of the State of Explainable AI for Natural Language Processing](https://arxiv.org/abs/2010.00711)**      
 Focuses on XAI for the NLP space. Paper mentions gaps and areas that has potential for progress. Must re-read for potential research ideas.
