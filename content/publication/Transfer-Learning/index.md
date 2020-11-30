@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "Sorry! Experiments are still running and abstract not written yet. Stay tuned!"
 
 # Summary. An optional shortened abstract.
-summary: "Transfer Learning is often used to speed up the training process of ML models by using existing weights and architectures as a basis step. This study compares the transfer learning performance on popular CNNs - AlexNet, VGG16, LeNet, InceptionV3, ResNet. (Paper under construction)"
+summary: "Transfer Learning is often used to speed up the training process of ML models by using existing weights and architectures as a basis step. This study compares the transfer learning performance on popular CNNs - AlexNet, VGG16, LeNet, InceptionV3, ResNet. (Research Ongoing)"
 
 tags: [Transfer Learning, CNNs, Medical Image Analysis]
 categories: []
