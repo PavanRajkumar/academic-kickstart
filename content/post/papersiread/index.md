@@ -34,6 +34,11 @@ This is a list of some interesting papers I've read while doing my research work
 
 <br/>
 
+**3/12/2020 - [Deep Predictive Coding Networks](https://arxiv.org/abs/1301.3541)**         
+
+**2/12/2020 - [A Predictive-Coding Network That Is Both Discriminative and Generative](https://cs.uwaterloo.ca/~jorchard/academic/SunOrchard_NECO2020.pdf)**        
+Look into Predictive Coding networks.
+
 **26/11/2020 - [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)**      
 Presents a method for unsupervised visual representation learning. Need to look further into contrastive-based learning. 
 

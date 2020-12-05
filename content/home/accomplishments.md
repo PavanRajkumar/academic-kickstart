@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   title = "Fundamental Neuroscience for Neuroimaging"
   url = "https://www.coursera.org/learn/neuroscience-neuroimaging"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/BDZYUQWY3FMA"
-  date_start = "2020-07-15"
+  date_start = "2020-07-14"
   description = "Studied basic principles of neuroimaging methods including neuroimaging physics and image formation, neuroimaging applications, functional MRI, diffusion tensor imaging, magnetic resonance spectroscopy, perfusion imaging, and positron emission tomography imaging."
 
 [[item]]

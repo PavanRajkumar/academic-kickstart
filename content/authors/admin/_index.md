@@ -18,13 +18,12 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied AI and machine learning, specifically in the healthcare and software solutions field. Another field I am exploring is that of eXplainable AI (XAI) where we attempt to interpret and visualise the workings of black-box models.
-
+bio: My research interests include applied AI and machine learning. Other fields I am exploring computational neuroscience and eXplainable AI (XAI).
 interests:
 - AI for Healthcare
-- Computational Biomedicine
+- Computational Neuroscience
 - eXplainable AI (XAI)
-- Machine Learning
+- Computational Biomedicine
 
 education:
   courses:
