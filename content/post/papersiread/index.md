@@ -7,8 +7,8 @@ summary: "This is a repository of some interesting papers I've read."
 authors: []
 tags: [Research, Papers, Scientific Literature]
 categories: []
-date: 2020-01-25T17:21:02+05:30
-lastmod: 2020-11-26T17:21:02+05:30
+date: 2020-03-12T17:21:02+05:30
+lastmod: 2020-12-03T17:21:02+05:30
 featured: false
 draft: false
 
@@ -33,6 +33,9 @@ This is a list of some interesting papers I've read while doing my research work
 </div>
 
 <br/>
+
+**14/12/2020 - [Analysis of speaker recognition methodologies and the influence of kinetic changes to automatically detect Parkinson’s Disease](https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2018/LaureanoMoro-Velazquez18-AOS.pdf)**        
+Useful for current project.
 
 **3/12/2020 - [Deep Predictive Coding Networks](https://arxiv.org/abs/1301.3541)**         
 
