@@ -8,7 +8,7 @@ authors: []
 tags: [Research, Papers, Scientific Literature]
 categories: []
 date: 2020-03-12T17:21:02+05:30
-lastmod: 2020-12-03T17:21:02+05:30
+lastmod: 2020-12-21T17:21:02+05:30
 featured: false
 draft: false
 
@@ -33,6 +33,9 @@ This is a list of some interesting papers I've read while doing my research work
 </div>
 
 <br/>
+
+**21/12/2020 - [Incorporating machine learning and social determinants of health indicators into prospective risk adjustment for health plan payments](https://link.springer.com/content/pdf/10.1186/s12889-020-08735-0.pdf)**        
+Interesting application to health plan payments.
 
 **14/12/2020 - [Analysis of speaker recognition methodologies and the influence of kinetic changes to automatically detect Parkinson’s Disease](https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2018/LaureanoMoro-Velazquez18-AOS.pdf)**        
 Useful for current project.
