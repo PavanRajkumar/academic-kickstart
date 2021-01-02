@@ -8,7 +8,7 @@ authors: []
 tags: [Research, Papers, Scientific Literature]
 categories: []
 date: 2020-03-12T17:21:02+05:30
-lastmod: 2020-12-21T17:21:02+05:30
+lastmod: 2021-1-2T17:21:02+05:30
 featured: false
 draft: false
 
@@ -33,6 +33,11 @@ This is a list of some interesting papers I've read while doing my research work
 </div>
 
 <br/>
+
+**2/1/2021 - [Transforming Healthcare Delivery](https://www.dropbox.com/s/55zvpshi2ud5d8a/SariaIEEEIS2014_TransformingHealthcareDelivery.pdf)**        
+
+**27/12/2020 - [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://arxiv.org/abs/1511.05942)**        
+Application on Electronic Health Records.
 
 **21/12/2020 - [Incorporating machine learning and social determinants of health indicators into prospective risk adjustment for health plan payments](https://link.springer.com/content/pdf/10.1186/s12889-020-08735-0.pdf)**        
 Interesting application to health plan payments.
