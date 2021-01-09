@@ -8,8 +8,8 @@ authors: []
 tags: [Research, Papers, Scientific Literature]
 categories: []
 date: 2020-03-12T17:21:02+05:30
-lastmod: 2021-1-2T17:21:02+05:30
-featured: false
+lastmod: 2021-1-9T17:21:02+05:30
+featured: true
 draft: false
 
 # Featured image
@@ -33,6 +33,8 @@ This is a list of some interesting papers I've read while doing my research work
 </div>
 
 <br/>
+
+**10/1/2021 - [Deep Learning for Biomedical Image Reconstruction: A Survey](https://ui.adsabs.harvard.edu/abs/2020arXiv200212351B/abstract)**
 
 **2/1/2021 - [Transforming Healthcare Delivery](https://www.dropbox.com/s/55zvpshi2ud5d8a/SariaIEEEIS2014_TransformingHealthcareDelivery.pdf)**        
 
