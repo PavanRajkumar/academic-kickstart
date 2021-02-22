@@ -7,8 +7,8 @@ summary: "This is a repository of some interesting papers I've read."
 authors: []
 tags: [Research, Papers, Scientific Literature]
 categories: []
-date: 2020-03-12T17:21:02+05:30
-lastmod: 2021-1-9T17:21:02+05:30
+date: 2021-01-08T17:21:02+05:30
+lastmod: 2021-02-22T17:21:02+05:30
 featured: true
 draft: false
 
@@ -33,6 +33,11 @@ This is a list of some interesting papers I've read while doing my research work
 </div>
 
 <br/>
+
+**12/2/2021 - [EUCA: A Practical Prototyping Framework towards End-User-Centered Explainable Artificial Intelligence](https://arxiv.org/ftp/arxiv/papers/2102/2102.02437.pdf)**  
+More XAI in helthcare work.
+
+**1/2/2021 - [Deep semantic segmentation of natural and medical images: A review](https://arxiv.org/pdf/1910.07655.pdf)**
 
 **10/1/2021 - [Deep Learning for Biomedical Image Reconstruction: A Survey](https://ui.adsabs.harvard.edu/abs/2020arXiv200212351B/abstract)**
 
