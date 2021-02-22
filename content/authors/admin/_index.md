@@ -23,7 +23,7 @@ interests:
 - AI for Healthcare
 - Computational Neuroscience
 - eXplainable AI (XAI)
-- Computational Biomedicine
+- Medical Imaging
 
 education:
   courses:
