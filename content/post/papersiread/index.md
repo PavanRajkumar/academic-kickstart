@@ -35,7 +35,7 @@ This is a list of some interesting papers I've read while doing my research work
 <br/>
 
 **12/2/2021 - [EUCA: A Practical Prototyping Framework towards End-User-Centered Explainable Artificial Intelligence](https://arxiv.org/ftp/arxiv/papers/2102/2102.02437.pdf)**  
-More XAI in helthcare work.
+More XAI work.
 
 **1/2/2021 - [Deep semantic segmentation of natural and medical images: A review](https://arxiv.org/pdf/1910.07655.pdf)**
 
