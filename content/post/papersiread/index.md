@@ -8,7 +8,7 @@ authors: []
 tags: [Research, Papers, Scientific Literature]
 categories: []
 date: 2021-01-08T17:21:02+05:30
-lastmod: 2021-02-22T17:21:02+05:30
+lastmod: 2021-03-15T17:21:02+05:30
 featured: true
 draft: false
 
@@ -29,10 +29,15 @@ projects: []
 ---
 
 <div style="text-align: justify">
-This is a list of some interesting papers I've read while doing my research work. I keep looking for new ideas to work on and keeping a list like this has so far helped really well. Big thanks to Alexandra Elbakyan, creator of Sci-Hub, without whom most of this reading would'nt have been possible.  
+This is a list of some interesting papers I've read while doing my research work. I keep looking for new ideas to work on and keeping a list like this has so far helped really well. Big thanks to Alexandra Elbakyan, creator of Sci-Hub, without whom most of this reading wouldn't have been possible.  
 </div>
 
 <br/>
+
+**15/3/2021 - [Five principles for the intelligent use of AI in medical imaging](https://link.springer.com/article/10.1007/s00134-020-06316-8)**  
+(Use Scihub)
+
+**3/3/2021 - [COVID-19 Image Data Collection: Prospective Predictions Are the Future](https://arxiv.org/pdf/2006.11988.pdf)**  
 
 **12/2/2021 - [EUCA: A Practical Prototyping Framework towards End-User-Centered Explainable Artificial Intelligence](https://arxiv.org/ftp/arxiv/papers/2102/2102.02437.pdf)**  
 More XAI work.
